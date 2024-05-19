@@ -1,0 +1,40 @@
+{
+    "key_tool_zalo": [
+        {
+            "key_device": "ADBCDEF120381230123",
+            "start_date": "24/5/2024",
+            "stop_date": "24/6/2024",
+            "status": true
+        },
+        {
+            "key_device": "ADBCDEF120381230123",
+            "start_date": "24/5/2024",
+            "stop_date": "24/6/2024",
+            "status": false
+        },
+        {
+            "key_device": "ADBCDEF120381230123",
+            "start_date": "24/5/2024",
+            "stop_date": "24/6/2024",
+            "status": false
+        },
+        {
+            "key_device": "ADBCDEF120381230123",
+            "start_date": "24/5/2024",
+            "stop_date": "24/6/2024",
+            "status": true
+        },
+        {
+            "key_device": "ADBCDEF120381230123",
+            "start_date": "24/5/2024",
+            "stop_date": "24/6/2024",
+            "status": true
+        },
+        {
+            "key_device": "ADBCDEF120381230123",
+            "start_date": "24/5/2024",
+            "stop_date": "24/6/2024",
+            "status": true
+        }
+    ]
+}
